@@ -54,6 +54,9 @@ builds on.
 
 ## 📁 Repository structure
 📁 data
+
 📁 report
+
 📁 sql
+
 📄 README.md            
