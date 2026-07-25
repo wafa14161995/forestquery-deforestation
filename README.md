@@ -11,11 +11,6 @@ where it is recovering, and which countries most need attention.
 
 ---
 
-## 🎯 The question
-
-Between 1990 and 2016, is the world gaining or losing forest — and if losing, *where*,
-*how fast*, and *which countries* should a conservation team prioritize?
-
 ## 🗂 The data
 
 Three tables from the World Bank:
@@ -33,7 +28,7 @@ builds on.
 ## 🛠 Tools
 
 - **MySQL** — data loading, joins, and analysis
-- Techniques used: `JOIN`, `VIEW`, CTEs (`WITH`), subqueries, window-style ranking,
+- Techniques used: `JOIN`, `VIEW`, CTEs (`WITH`), subqueries,
   `CASE` bucketing, `NULL` handling on real-world gapped data
 
 ## 📊 Key findings
