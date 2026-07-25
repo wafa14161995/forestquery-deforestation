@@ -50,15 +50,10 @@ builds on.
   making it a clear priority.
 - **Success story:** China *added* ~527,000 sq km of forest — far more than any other country.
 
-Full narrative, tables, and recommendations are in
-[`report/forestquery_report.md`](report/forestquery_report.md).
+
 
 ## 📁 Repository structure
-forestquery-deforestation/
-├── README.md                     
-├── sql/
-│   └── forestquery_analysis.sql  
-├── report/
-│   └── forestquery_report.md    
-└── data/
-    └── (your CSVs)               
+📁 data
+📁 report
+📁 sql
+📄 README.md            
