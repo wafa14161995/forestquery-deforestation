@@ -54,3 +54,11 @@ Full narrative, tables, and recommendations are in
 [`report/forestquery_report.md`](report/forestquery_report.md).
 
 ## 📁 Repository structure
+forestquery-deforestation/
+├── README.md                     
+├── sql/
+│   └── forestquery_analysis.sql  
+├── report/
+│   └── forestquery_report.md    
+└── data/
+    └── (your CSVs)               
